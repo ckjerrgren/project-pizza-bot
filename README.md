@@ -1,4 +1,5 @@
 # The project: Pizza Bot
+- Claire Caudwell & Claudia Kjerrgren
 
 The goal for this project was to create a pizzabot using javascript. We needed to gather data from the user in order to process the users order. This included username, pizza type and amount of pizzas. All of this information needed to be made visible in the DOM.
 
